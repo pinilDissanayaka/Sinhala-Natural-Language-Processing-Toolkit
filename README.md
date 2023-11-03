@@ -1,4 +1,4 @@
-# Development of a Sinhala Natural Language Processing Toolkit
+# Sinhala Natural Language Processing Toolkit
 
 In this project, I undertook the task of creating a comprehensive Sinhala Natural Language Processing (NLP) toolkit from scratch, comprising essential components such as Sinhala stopwords, Sinhala lemmatizer. This work represents a substantial contribution to the NLP community, specifically for the Sinhala language, and demonstrates my commitment to advancing the field of NLP for underrepresented languages.
 
