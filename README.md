@@ -5,8 +5,8 @@ In this project, I undertook the task of creating a comprehensive Sinhala Natura
 ## Sinhala Stopwords:
 I meticulously curated and compiled a list of Sinhala stopwords, tailored to the unique linguistic characteristics of the Sinhala language. This list includes commonly occurring words that typically do not carry significant semantic meaning, allowing for more accurate and meaningful text analysis.
 
-## Sinhala Stemming:
-Developing an effective Sinhala stemming algorithm was a critical aspect of this project. I designed and implemented a Sinhala-specific stemming algorithm to reduce words to their base or root form, enhancing the accuracy and efficiency of information retrieval and analysis in the Sinhala language.
+## Sinhala lemmatizer:
+Developing an effective Sinhala lemmatizer algorithm was a critical aspect of this project. I designed and implemented a Sinhala-specific lemmatizer algorithm to reduce words to their base or root form, enhancing the accuracy and efficiency of information retrieval and analysis in the Sinhala language.
 
 ## Sinhala Word2Vec Model:
 To enable advanced NLP tasks, such as word embedding and semantic similarity analysis, I trained a Sinhala Word2Vec model. This model captures the semantic relationships between words in the Sinhala language and allows for the transformation of words into high-dimensional vectors that can be used for various NLP applications.
